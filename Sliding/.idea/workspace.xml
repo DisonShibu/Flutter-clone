@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a091b18-92f8-4c3e-8cbd-615d4bd94059" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/kotlin/com/asobuddy/hotel_booking/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/android/settings_aar.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/fonts/NexaDemo-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/fonts/NexaDemo-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/icons/dec_counter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/icons/inc_counter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/app_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/bg_gradient.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/bg_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/calander.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/location_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/search_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/setting_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/assets/images/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/br.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/cz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/ne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/no.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/i18n/pt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/app/app.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/app/app_state.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/app/app_theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/bloc/base_bloc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/bloc/user_bloc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/models/model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/models/notification/notification_list_response.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/models/state.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/resources/api_providers/repository/repository.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/resources/api_providers/user_api_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/screens/home_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/screens/login.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/screens/select_rooms_and_person.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/widgets/build_material_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/widgets/clickable_icon.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/widgets/home_drawer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/widgets/home_page_field_box.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/widgets/room_person_count.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/ui/widgets/select_deselect_icon.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/utils/api_client.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/utils/constants.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/utils/object_factory.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/utils/prefs.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/utils/utils.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/lib/src/utils/validators.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/hotel_booking/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/lib/Searchbrex1/Location.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Flutter_app/lib/Searchbrex1/Location.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/lib/Searchbrex1/Project 1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/lib/Searchbrex1/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Flutter_app/lib/Searchbrex1/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/lib/Services/Auth.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Flutter_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/lib/neeer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Flutter_app/lib/Searchbrex1/Calender.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/lib/parse/Myapp.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Flutter_app/lib/parse/Myapp.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flutter_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flutter_app/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Flutter_app" />
+  </component>
+  <component name="ProjectId" id="1iXpxoYz8llUwN2w5LuTCkzMB8P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/Flutter_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a091b18-92f8-4c3e-8cbd-615d4bd94059" name="Default Changelist" comment="" />
+      <created>1602064039184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602064039184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602064567455">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="127" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1602064567455" />
+    <state x="402" y="155" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1602064492689">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="155" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1602064492689" />
+    <state x="420" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602828327230">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="420" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1602828327230" />
+    <state x="453" y="120" key="FileChooserDialogImpl" timestamp="1602064558117">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="453" y="120" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602064558117" />
+    <state x="174" y="8" key="SettingsEditor" timestamp="1602064563015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="174" y="8" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602064563015" />
+  </component>
+</project>
